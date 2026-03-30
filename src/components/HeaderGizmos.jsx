@@ -218,8 +218,8 @@ const HeaderGizmos = ({ cartCount = 0, wishlistCount = 0 }) => {
           <div className="flex items-center justify-between gap-4">
             <BrandIdentity
               className="transition-transform hover:scale-[1.02]"
-              logoClassName="h-11 w-11 sm:h-12 sm:w-12"
-              textSizeClassName="text-[2rem] sm:text-[2.2rem]"
+              logoClassName="h-9 w-9 sm:h-10 sm:w-10"
+              textSizeClassName="text-[1.55rem] sm:text-[1.75rem]"
             />
 
             <div className="flex items-center gap-2 lg:hidden">
